@@ -1,5 +1,7 @@
 # jaLex
 
+[![Go version](https://img.shields.io/github/go-mod/go-version/mgjules/jalex.svg)](https://pkg.go.dev/github.com/mgjules/jalex)
+
 JaLex is an extensible lexer built for educational purposes.
 
 ## Inspiration
